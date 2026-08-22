@@ -18,12 +18,12 @@ Ejercicios trabajados en la Clase 12 Agosto
 Ejercicios de práctica Fundamentos Python (1)
 Paradigmas de programación y estructuras de control
 
-## Cuaderno 6
+### Cuaderno 6
 Ejercicios de práctica Fundamentos Python (3)
 Funciones: definición, parámetros y return
 
-## Cuaderno 7
+### Cuaderno 7
 Diapositivas Clase 19 de Agosto
 
-## Cuaderno 8
+### Cuaderno 8
 Ejercicios de práctica NumPy y pandas
