@@ -9,13 +9,14 @@ Serie: Python desde cero
 Serie: Python desde cero
 
 ### Cuaderno 3
-Serie: Python desde cero
-
-### Cuaderno 4
 Ejercicios trabajados en la Clase 12 Agosto
 
-### Cuaderno 5
+### Cuaderno 4
 Ejercicios de práctica Fundamentos Python (1)
+Paradigmas de programación y estructuras de control
+
+### Cuaderno 5
+Ejercicios de práctica Fundamentos Python (2)
 Paradigmas de programación y estructuras de control
 
 ### Cuaderno 6
