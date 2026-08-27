@@ -28,3 +28,12 @@ Diapositivas Clase 19 de Agosto
 
 ### Cuaderno 8
 Ejercicios de práctica NumPy y pandas
+
+### Cuaderno 9
+Pandas seleccion filtros groupby merge (1)
+
+### Cuaderno 10
+Preprocesamiento ETL
+
+### Cuaderno 11
+Visualizacion matplotlib seaborn
