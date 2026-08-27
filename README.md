@@ -17,7 +17,7 @@ Paradigmas de programación y estructuras de control
 
 ### Cuaderno 5
 Ejercicios de práctica Fundamentos Python (2)
-Paradigmas de programación y estructuras de control
+Listas, tuplas y diccionarios
 
 ### Cuaderno 6
 Ejercicios de práctica Fundamentos Python (3)
